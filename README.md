@@ -1,6 +1,6 @@
 to run this local to test any small tweak run this: 
 ```
-yarn start
+yarn go
 ```
 Note: Still didn't make a file for local env variables.
 
